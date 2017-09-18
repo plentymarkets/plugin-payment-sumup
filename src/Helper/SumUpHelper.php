@@ -10,6 +10,7 @@ use Plenty\Modules\Payment\Method\Contracts\PaymentMethodRepositoryContract;
 class SumUpHelper
 {
 	const PLUGIN_NAME = 'SumUp';
+	const PLUGIN_KEY = 'plenty_sumup';
 	
 	const NO_PAYMENTMETHOD_FOUND = 'no_paymentmethod_found';
 	
@@ -37,7 +38,7 @@ class SumUpHelper
 			if ($this->getPaymentMethod($paymentKey) == self::NO_PAYMENTMETHOD_FOUND)
 			{
 				$paymentMethodData = array(
-					'pluginKey' => self::PLUGIN_NAME,
+					'pluginKey' => self::PLUGIN_KEY,
 					'paymentKey' => $paymentKey,
 					'name' => $paymentName
 				);
@@ -49,7 +50,7 @@ class SumUpHelper
 	
 	private function getPaymentMethod($method)
 	{
-		$paymentMethods = $this->paymentMethodRepository->allForPlugin(self::PLUGIN_NAME);
+		$paymentMethods = $this->paymentMethodRepository->allForPlugin(self::PLUGIN_KEY);
 		
 		if(!is_null($paymentMethods))
 		{
