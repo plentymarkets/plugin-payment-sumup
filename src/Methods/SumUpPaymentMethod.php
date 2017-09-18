@@ -13,18 +13,17 @@ use Plenty\Plugin\ConfigRepository;
 class SumUpPaymentMethod extends PaymentMethodService
 {
 	private $configRepository;
-	
+
 	public function __construct(ConfigRepository $configRepository)
 	{
 		$this->configRepository = $configRepository;
 	}
-	
-	//TODO needed?
+
 	public function isActive():bool
 	{
 		return true;
 	}
-	
+
 	public function getName():string
 	{
 		return SumUpHelper::PLUGIN_NAME;
