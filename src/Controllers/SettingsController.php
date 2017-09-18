@@ -24,7 +24,7 @@ class SettingsController extends Controller
 		 */
 		$mopRepository = pluginApp(PaymentMethodRepositoryContract::class);
 		
-		$mopModels = $mopRepository->allForPlugin(SumUpHelper::PLUGIN_NAME);
+		$mopModels = $mopRepository->allForPlugin(SumUpHelper::PLUGIN_KEY);
 		foreach ($mopModels as $mopModel)
 		{
 			$response['methodsOfPayment'][] = $mopModel->toArray();
