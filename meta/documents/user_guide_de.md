@@ -27,18 +27,7 @@ Nachdem Sie das Plugin bereitgestellt haben, aktivieren Sie die Zahlungsart im p
 
 ## SumUp mit plentymarkets POS verbinden
 
-Die Verbindung zwischen SumUp und plentymarkets POS stellen Sie her, wenn Sie sich zum ersten Mal wieder bei plentymarkets POS anmelden. Sie benötigen Ihren SumUp-Benutzernamen und Ihr SumUp-Passwort, um die Verbindung herzustellen.
-
-##### SumUp mit plentymarkets POS verbinden:
-
-1. Loggen Sie sich in die plentymarekts App ein.
-2. Öffnen Sie das Menü **POS**.<br />
-→ Sie werden aufgefordert, Ihre SumUp-Benutzerdaten einzugeben.
-3. Geben Sie den SumUp-Benutzernamen ein.
-4. Geben Sie das SumUp-Passwort ein.
-5. Bestätigen Sie die Eingabe.<br />
-→ Die Verbindung zum SumUp wird hergestellt.<br />
-→ Das SumUp-Terminal kann mit plentymarkets POS verwendet werden.
+Die Verbindung zwischen SumUp und plentymarkets POS stellen Sie her, wenn Sie zum ersten Mal eine Kartenzahlung über plentymarkets POS entgegennehmen. Sie benötigen Ihren SumUp-Benutzernamen und Ihr SumUp-Passwort, um die Verbindung herzustellen.
 
 ## Lizenz
 
