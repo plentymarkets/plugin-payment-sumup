@@ -17,13 +17,14 @@ class SumUpHelper
 	private $paymentMethodRepository;
 
 	public static $paymentMethods = [
-		'UNKOWN'			=> 'SumUp Unknown',
+		'UNKNOWN'			=> 'SumUp Unknown',
+		'AMEX'				=> 'SumUp American Express',
+		'APPLE_PAY'			=> 'SumUp Apple Pay',
 		'MAESTRO'			=> 'SumUp Maestro',
-		'VPAY'				=> 'SumUp V PAY',
 		'MASTERCARD'		=> 'SumUp Mastercard',
 		'VISA'				=> 'SumUp Visa',
-		'AMEX'				=> 'SumUp American Express',
-		'APPLE_PAY'			=> 'SumUp Apple Pay'
+		'VISA_ELECTRON'		=> 'SumUp Visa Electron',
+		'VPAY'				=> 'SumUp V PAY'
 		];
 	
 	public function __construct(PaymentMethodRepositoryContract $paymentMethodRepositoryContract)
