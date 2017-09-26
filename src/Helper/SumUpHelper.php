@@ -22,7 +22,7 @@ class SumUpHelper
 		'VPAY'				=> 'SumUp V PAY',
 		'MASTERCARD'		=> 'SumUp Mastercard',
 		'VISA'				=> 'SumUp Visa',
-		'AMERICAN_EXPRESS'	=> 'SumUp American Express',
+		'AMEX'				=> 'SumUp American Express',
 		'APPLE_PAY'			=> 'SumUp Apple Pay'
 		];
 	
