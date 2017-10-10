@@ -24,7 +24,11 @@ Once you have provisioned the payment plugin, activate the payment method in the
 
 ##### Activating the payment method SumUp for a POS:
 
-1. Go to **Settings » Client (store) » Standard » POS » POS » Tab: Payment method**. 2. For the option **Connectivity**, select the setting **SumUp**. &lt;br /&gt; **__Tipp:__** If the option **SumUp** is not shown, you need to provision the plugin to continue. 3. **Save** the settings.<br /> → The payment method SumUp is active.
+1. Go to **Settings » Client (store) » Standard » POS » POS » Tab: Payment method**. 
+2. For the option **Connectivity**, select the setting **SumUp**. <br />
+**__Tipp:__** If the option **SumUp** is not shown, you need to provision the plugin to continue. 
+3. **Save** the settings.<br /> 
+→ The payment method SumUp is active.
 
 ## Connecting SumUp with plentymarkets POS
 
