@@ -4,7 +4,10 @@ The SumUp plugin allows you to connect the mobile card reading device SumUp Air 
 
 To use the SumUp Air with plentymarkets POS, you need the following:
 
-* plentymarkets POS * Mobile device on which the plentymarkets app is installed * SumUp Air card reading device * SumUp login details<br /> __**Note:**__ The SumUp login details need to be entered when you process the first card payment with the SumUp. As such, you need to provide POS users with these login details if you do not operate the POS yourself.
+* plentymarkets POS
+* Mobile device on which the plentymarkets app is installed
+* SumUp Air card reading device * SumUp login details<br />
+__**Note:**__ The SumUp login details need to be entered when you process the first card payment with the SumUp. As such, you need to provide POS users with these login details if you do not operate the POS yourself.
 
 Check the [plentymarkets manual](https://knowledge.plentymarkets.com/en/omni-channel/pos/integrating-plentymarkets-pos) for further information on hardware requirements and setting up plentymarkets POS.
 
