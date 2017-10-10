@@ -4,13 +4,13 @@ The SumUp plugin allows you to connect the mobile card reading device SumUp Air 
 
 To use the SumUp Air with plentymarkets POS, you need the following:
 
-* plentymarkets POS
-* Mobile device on which the plentymarkets app is installed
-* SumUp Air card reading device
-* SumUp login details
-__**Tip:**__ The SumUp login details are entered when you process the first card payment using the SumUp Air. As such, provide POS users with these login details if necessary.
+* plentymarkets POS * Mobile device on which the plentymarkets app is installed * SumUp Air card reading device * SumUp login details<br /> __**Note:**__ The SumUp login details need to be entered when you process the first card payment with the SumUp. As such, you need to provide POS users with these login details if you do not operate the POS yourself.
 
-Check the [plentymarkets manual](https://knowledge.plentymarkets.com/omni-channel/pos/pos-einrichten) for further information on hardware requirements and setting up plentymarkets POS.
+Check the [plentymarkets manual](https://knowledge.plentymarkets.com/en/omni-channel/pos/integrating-plentymarkets-pos) for further information on hardware requirements and setting up plentymarkets POS.
+
+<div class="alert alert-warning" role="alert">
+When you cancel a SumUp card payment in the plentymarkets app, you can select if the cancelled amount is returned to the customer in cash or booked back to the card account. If you select to book the amount back to the card account via the SumUp device, you also need to cancel the payment in the SumUp back end. Otherwise, the amount will not be booked back to the account.
+</div>
 
 <div class="container-toc"></div>
 
