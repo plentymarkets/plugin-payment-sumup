@@ -8,9 +8,13 @@ Um das SumUp Air mit plentymarkets POS nutzen zu können, benötigen Sie:
 * Mobiles Gerät, auf der die plentymarkets App installiert ist
 * SumUp Air EC-Kartenlesegerät
 * SumUp-Zugangsdaten<br />
-__**Tipp:**__ Die SumUp-Zugangsdaten geben Sie bei der ersten Kartenzahlung mit dem SumUp Air ein. Stellen Sie diese Daten also ggf. Kassenbenutzern zur Verfügung.
+__**Hinweis:**__ Die SumUp-Zugangsdaten geben Sie bei der ersten Kartenzahlung mit dem SumUp Air ein. Stellen Sie diese Daten also ggf. Kassenbenutzern zur Verfügung.
 
 Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentymarkets POS finden Sie im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/omni-channel/pos/pos-einrichten).
+
+<div class="alert alert-warning" role="alert">
+Wenn Sie eine SumUp-Kartenzahlung in der plentymarkets App stornieren, können Sie wählen, ob Sie den stornierten Betrag bar auszahlen oder auf das Konto zurückbuchen möchten. Wenn Sie die Rückbuchung über SumUp wählen, müssen Sie diese Rückbuchung auch manuell im SumUp-Backend vornehmen, da der Betrag sonst nicht zurückgebucht wird.
+</div>
 
 <div class="container-toc"></div>
 
