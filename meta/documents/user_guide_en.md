@@ -6,11 +6,15 @@ To use the SumUp Air with plentymarkets POS, you need the following:
 
 * plentymarkets POS
 * Mobile device on which the plentymarkets app is installed
-* SumUp Air card reading device
-* SumUp login details
-__**Tip:**__ The SumUp login details are entered when you process the first card payment using the SumUp Air. As such, provide POS users with these login details if necessary.
+* SumUp Air card reading device 
+* SumUp login details<br />
+__**Note:**__ The SumUp login details need to be entered when you process the first card payment using the SumUp device. As such, you need to provide POS users with these login details if you do not operate the POS yourself.
 
-Check the [plentymarkets manual](https://knowledge.plentymarkets.com/omni-channel/pos/pos-einrichten) for further information on hardware requirements and setting up plentymarkets POS.
+Check the [plentymarkets manual](https://knowledge.plentymarkets.com/en/omni-channel/pos/integrating-plentymarkets-pos) for further information on hardware requirements and setting up plentymarkets POS.
+
+<div class="alert alert-warning" role="alert">
+When you cancel a SumUp card payment in the plentymarkets app, you can select if the cancelled amount is returned to the customer in cash or booked back to the card account. If you select to book the amount back to the card account via the SumUp device, you also need to cancel the payment in the SumUp back end. Otherwise, the amount will not be booked back to the account.
+</div>
 
 <div class="container-toc"></div>
 
@@ -20,7 +24,11 @@ Once you have provisioned the payment plugin, activate the payment method in the
 
 ##### Activating the payment method SumUp for a POS:
 
-1. Go to **Settings » Client (store) » Standard » POS » POS » Tab: Payment method**. 2. For the option **Connectivity**, select the setting **SumUp**. &lt;br /&gt; **__Tipp:__** If the option **SumUp** is not shown, you need to provision the plugin to continue. 3. **Save** the settings.<br /> → The payment method SumUp is active.
+1. Go to **Settings » Client (store) » Standard » POS » POS » Tab: Payment method**. 
+2. For the option **Connectivity**, select the setting **SumUp**. <br />
+**__Tipp:__** If the option **SumUp** is not shown, you need to provision the plugin to continue. 
+3. **Save** the settings.<br /> 
+→ The payment method SumUp is active.
 
 ## Connecting SumUp with plentymarkets POS
 
