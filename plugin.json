@@ -8,7 +8,7 @@
   "price"             : 0.00,
   "description"       : "SumUp plugin for plentymarkets",
   "shortDescription"  : {"de":"SumUp plugin für plentymarkets","en":"SumUp plugin for plentymarkets"},
-  "categories"        : [],
+  "categories"        : ["3519","3521"],
   "keywords"          : ["SumUp", "official", "plentymarkets", "payment"],
   "author"            : "plentymarkets GmbH",
   "authorIcon"        : "icon_author_xs.png",
