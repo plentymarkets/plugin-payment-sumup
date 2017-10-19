@@ -4,11 +4,14 @@ Mit dem Plugin SumUp verbinden Sie das mobile EC-Kartenlesegerät SumUp Air von 
 
 Um das SumUp Air mit plentymarkets POS nutzen zu können, benötigen Sie:
 
-* plentymarkets POS Kasse
-* Mobiles Android-Gerät mit aktivierter Ortung (Positionsbestimmung), auf der die plentymarkets App installiert ist
 * SumUp Air EC-Kartenlesegerät
 * SumUp-Zugangsdaten<br />
 __**Hinweis:**__ Die SumUp-Zugangsdaten geben Sie bei der ersten Kartenzahlung mit dem SumUp Air ein. Stellen Sie diese Daten also ggf. Kassenbenutzern zur Verfügung.
+* plentymarkets POS Kasse
+* Mobiles Android-Gerät mit
+    * installierter plentymarkets App
+    * aktiviertem Bluetooth
+    * aktiverter Ortung (Positionsbestimmung)
 
 Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentymarkets POS finden Sie im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/omni-channel/pos/pos-einrichten).
 
