@@ -11,7 +11,7 @@ __**Hinweis:**__ Die SumUp-Zugangsdaten geben Sie bei der ersten Kartenzahlung m
 * Mobiles Android-Gerät mit
     * installierter plentymarkets App
     * aktiviertem Bluetooth
-    * aktiverter Ortung (Positionsbestimmung)
+    * aktiverter Ortung (Standortbestimmung)
 
 Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentymarkets POS finden Sie im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/omni-channel/pos/pos-einrichten).
 
