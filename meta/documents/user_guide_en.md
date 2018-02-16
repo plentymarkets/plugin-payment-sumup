@@ -2,8 +2,11 @@
 
 The SumUp plugin allows you to connect the mobile card reading device SumUp Air with the POS software plentymarkets POS.
 
-To use the SumUp Air with plentymarkets POS, you need the following:
+<div class="alert alert-success" role="alert">
+SumUp offers special terms and conditions to plentymarkets POS customers. Visit the [SumUp website](https://sumup.de/plentypos/) (in German) to find out more.
+</div>
 
+To use the SumUp Air with plentymarkets POS, you need the following:
 
 * SumUp Air card reading device
 * SumUp login details<br />
