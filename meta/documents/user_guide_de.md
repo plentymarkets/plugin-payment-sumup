@@ -2,6 +2,10 @@
 
 Mit dem Plugin SumUp verbinden Sie das mobile EC-Kartenlesegerät SumUp Air von SumUp mit der Kassensoftware plentymarkets POS.
 
+<div class="alert alert-success" role="alert">
+plentymarkets POS Kunden profitieren von exklusiven SumUp-Konditionen. Besuchen Sie die [SumUp-Website](https://sumup.de/plentypos/), um mehr zu erfahren.
+</div>
+
 Um das SumUp Air mit plentymarkets POS nutzen zu können, benötigen Sie:
 
 * SumUp Air EC-Kartenlesegerät
