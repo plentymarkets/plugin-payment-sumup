@@ -6,6 +6,14 @@ namespace SumUp\Helper;
 
 
 use Plenty\Modules\Payment\Method\Contracts\PaymentMethodRepositoryContract;
+use SumUp\Methods\SumUpAmericanExpress;
+use SumUp\Methods\SumUpApplePayPaymentMethod;
+use SumUp\Methods\SumUpMaestroPaymentMethod;
+use SumUp\Methods\SumUpMastercardPaymentMethod;
+use SumUp\Methods\SumUpUnknownPaymentMethod;
+use SumUp\Methods\SumUpVisaElectronPaymentMethod;
+use SumUp\Methods\SumUpVisaPaymentMethod;
+use SumUp\Methods\SumUpVpayPaymentMethod;
 
 class SumUpHelper
 {
@@ -26,6 +34,17 @@ class SumUpHelper
 		'VISA_ELECTRON'		=> 'SumUp Visa Electron',
 		'VPAY'				=> 'SumUp V PAY'
 		];
+
+    public static $paymentMethodsClasses = [
+        'UNKNOWN'			=> SumUpUnknownPaymentMethod::class,
+        'AMEX'				=> SumUpAmericanExpress::class,
+        'APPLE_PAY'			=> SumUpApplePayPaymentMethod::class,
+        'MAESTRO'			=> SumUpMaestroPaymentMethod::class,
+        'MASTERCARD'		=> SumUpMastercardPaymentMethod::class,
+        'VISA'				=> SumUpVisaPaymentMethod::class,
+        'VISA_ELECTRON'		=> SumUpVisaElectronPaymentMethod::class,
+        'VPAY'				=> SumUpVpayPaymentMethod::class
+    ];
 	
 	public function __construct(PaymentMethodRepositoryContract $paymentMethodRepositoryContract)
 	{

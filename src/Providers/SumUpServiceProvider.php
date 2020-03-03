@@ -25,10 +25,12 @@ class SumUpServiceProvider extends ServiceProvider
 		//Register new PaymentMethods
 		foreach (SumUpHelper::$paymentMethods as $paymentKey => $paymentName)
 		{
-			$container->register(SumUpHelper::PLUGIN_NAME.'::'.$paymentKey,
-				SumUpPaymentMethod::class,
-				[]
-			);
+		    if(isset(SumUpHelper::$paymentMethodsClasses[$paymentKey])){
+                $container->register(SumUpHelper::PLUGIN_KEY.'::'.$paymentKey,
+                    SumUpHelper::$paymentMethodsClasses[$paymentKey],
+                    []
+                );
+            }
 		}
 	}
 }
