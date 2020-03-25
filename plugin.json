@@ -8,7 +8,7 @@
   "price"             : 0.00,
   "description"       : "SumUp plugin for plentymarkets",
   "shortDescription"  : {"de":"Das SumUp Plugin für plentyPOS für integrierte Kartenzahlungen ohne Fixkosten und Vertrag.","en":"SumUp plugin for plentyPOS to accept card payments without fix costs or contract."},
-  "categories"        : ["3519","3521"],
+  "categories"        : ["3519"],
   "keywords"          : ["SumUp", "official", "plentymarkets", "payment"],
   "author"            : "plentymarkets GmbH",
   "authorIcon"        : "icon_author_xs.png",
