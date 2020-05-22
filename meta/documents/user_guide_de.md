@@ -3,7 +3,7 @@
 Mit dem Plugin SumUp verbindest du das mobile EC-Kartenlesegerät SumUp Air von SumUp mit der Kassensoftware plentyPOS.
 
 <div class="alert alert-success" role="alert">
-plentyPOS-Kunden profitieren von exklusiven SumUp-Konditionen. Besuche die <a href="https://sumup.de/plentypos/" target="_blank">SumUp-Website</a>, um mehr zu erfahren.
+    plentyPOS-Kunden profitieren von exklusiven SumUp-Konditionen. Besuche die <a href="https://sumup.de/plentypos/" target="_blank">SumUp-Website</a>, um mehr zu erfahren.
 </div>
 
 Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
@@ -17,10 +17,15 @@ Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
     * aktiviertem Bluetooth
     * aktivierte Ortung (Standortbestimmung)
 
+
+<div class="alert alert-warning" role="alert">
+    Dieses Plugin unterstützt ausschließlich das oben aufgeführte SumUp-Air EC-Kartenlesegerät. Eine Anbindung des SumUp 3G-Terminals steht aktuell nicht zur Verfügung.
+</div>
+
 Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentymarkets POS finden Sie im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/pos/pos-einrichten).
 
 <div class="alert alert-warning" role="alert">
-Wenn du eine SumUp-Kartenzahlung in der plentymarkets App stornierst, kannst du wählen, ob du den stornierten Betrag bar auszahlst oder auf das Konto zurückbuchen möchtest. Wenn du die Rückbuchung über SumUp wählst, musst du diese Rückbuchung auch manuell im SumUp-Backend vornehmen, da der Betrag sonst nicht zurückgebucht wird.
+    Wenn du eine SumUp-Kartenzahlung in der plentymarkets App stornierst, kannst du wählen, ob du den stornierten Betrag bar auszahlst oder auf das Konto zurückbuchen möchtest. Wenn du die Rückbuchung über SumUp wählst, musst du diese Rückbuchung auch manuell im SumUp-Backend vornehmen, da der Betrag sonst nicht zurückgebucht wird.
 </div>
 
 <div class="container-toc"></div>
