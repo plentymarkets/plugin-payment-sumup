@@ -39,7 +39,7 @@ Nachdem du das Plugin bereitgestellt hast, aktiviere die Zahlungsart im plentyma
 1. Öffne das Menü **Einstellungen » Mandant (Shop) » Standard » POS » Tab: Zahlungsart**.
 2. Wähle für die Option **Anbindung** die Einstellung **SumUp**. <br />
     *_Tipp:_* Wenn die Option **SumUp** nicht verfügbar ist, wurde das Plugin noch nicht bereitgestellt.
-3. **Speichere** die Einstellungen.<br />
+3. **Speichere** die Einstellungen. <br />
 → Die Zahlungsart SumUp ist aktiv.
 
 ## SumUp mit plentyPOS verbinden
