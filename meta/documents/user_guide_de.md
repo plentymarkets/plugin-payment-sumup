@@ -22,7 +22,7 @@ Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
     Dieses Plugin unterstützt ausschließlich das oben aufgeführte SumUp-Air EC-Kartenlesegerät. Eine Anbindung des SumUp 3G-Terminals steht aktuell nicht zur Verfügung.
 </div>
 
-Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentymarkets POS finden Sie im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/pos/pos-einrichten).
+Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentyPOS findest du im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/pos/pos-einrichten).
 
 <div class="alert alert-warning" role="alert">
     Wenn du eine SumUp-Kartenzahlung in der plentymarkets App stornierst, kannst du wählen, ob du den stornierten Betrag bar auszahlst oder auf das Konto zurückbuchen möchtest. Wenn du die Rückbuchung über SumUp wählst, musst du diese Rückbuchung auch manuell im SumUp-Backend vornehmen, da der Betrag sonst nicht zurückgebucht wird.
@@ -42,7 +42,7 @@ Nachdem du das Plugin bereitgestellt hast, aktiviere die Zahlungsart im plentyma
 3. **Speichere** die Einstellungen.<br />
 → Die Zahlungsart SumUp ist aktiv.
 
-## SumUp mit plentymarkets POS verbinden
+## SumUp mit plentyPOS verbinden
 
 Die Verbindung zwischen SumUp und plentyPOS stellst du her, wenn du zum ersten Mal eine Kartenzahlung über plentyPOS entgegennimmst. Du benötigst deinen SumUp-Benutzernamen und dein SumUp-Passwort, um die Verbindung herzustellen.
 
