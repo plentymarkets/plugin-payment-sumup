@@ -2,7 +2,7 @@
 
 ## v.1.0.3 (2020-05-28)
 ### Changed
-- Keyword optimisation for the marketplace
+- Keyword optimisation for plentyMarketplace
 
 ## v.1.0.2 (2020-05-22)
 ### Changed
