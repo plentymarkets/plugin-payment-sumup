@@ -10,7 +10,7 @@ Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
 
 * SumUp Air EC-Kartenlesegerät
 * SumUp-Zugangsdaten <br />
-*_Hinweis:_* Die SumUp-Zugangsdaten gibst du bei der ersten Kartenzahlung mit dem SumUp Air ein. Stelle diese Daten also ggf. Kassenbenutzern zur Verfügung.
+    *_Hinweis:_* Die SumUp-Zugangsdaten gibst du bei der ersten Kartenzahlung mit dem SumUp Air ein. Stelle diese Daten also ggf. Kassenbenutzern zur Verfügung.
 * plentyPOS Kasse
 * Mobiles Android-Gerät mit
     * installierter plentymarkets App

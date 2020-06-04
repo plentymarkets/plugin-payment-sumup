@@ -1,7 +1,10 @@
 # Release Notes für SumUp
 
-## v.1.0.2 (2020-05-22)
+## v.1.0.3 (2020-05-28)
+### Geändert
+- Suchwortoptimierung für den plentyMarketplace
 
+## v.1.0.2 (2020-05-22)
 ### Geändert
 - Anpassungen im User Guide
 
