@@ -21,7 +21,7 @@ To use the SumUp Air with plentyPOS, you need the following:
     This plugin only supports the SumUp Air card reading device mentioned above. Using the SumpUp 3G card reading device is currently not possible.
 </div>
 
-Check the [plentymarkets manual](https://knowledge.plentymarkets.com/en/pos/integrating-plentymarkets-pos) for further information on hardware requirements and setting up plentyPOS.
+Check the [plentymarkets manual](https://knowledge.plentymarkets.com/en-gb/manual/main/pos/integrating-plentymarkets-pos.html#10) for further information on hardware requirements and setting up plentyPOS.
 
 <div class="alert alert-warning" role="alert">
     When you cancel a SumUp card payment in the plentymarkets app, you can select if the cancelled amount is returned to the customer in cash or booked back to the card account. If you select to book the amount back to the card account via the SumUp device, you also need to cancel the payment in the SumUp back end. Otherwise, the amount will not be booked back to the account.
