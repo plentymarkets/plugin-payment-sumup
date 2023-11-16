@@ -6,11 +6,11 @@ Mit dem Plugin SumUp verbindest du das mobile EC-Kartenlesegerät SumUp Air von 
     plentyPOS-Kunden profitieren von exklusiven SumUp-Konditionen. Besuche die <a href="https://sumup.de/plentypos/" target="_blank">SumUp-Website</a>, um mehr zu erfahren.
 </div>
 
-Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
+Um SumUp mit plentyPOS nutzen zu können, benötigst du:
 
 * SumUp Air oder SumUp Solo EC-Kartenlesegerät
 * SumUp-Zugangsdaten <br />
-    *_Hinweis:_* Die SumUp-Zugangsdaten gibst du bei der ersten Kartenzahlung mit dem SumUp Air ein. Stelle diese Daten also ggf. Kassenbenutzern zur Verfügung.
+    *_Hinweis:_* Die SumUp-Zugangsdaten gibst du in den POS Einstellungen in der plentymarkets App ein. Alternativ können die Zugangsdaten auch bei der ersten Kartenzahlung mit dem SumUp eingegeben werden. Stelle diese Daten also ggf. Kassenbenutzern zur Verfügung.
 * plentyPOS Kasse
 * Mobiles Android-Gerät mit
     * installierter plentymarkets App
@@ -19,7 +19,7 @@ Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
 
 
 <div class="alert alert-warning" role="alert">
-    Dieses Plugin unterstützt ausschließlich das oben aufgeführte SumUp-Air EC-Kartenlesegerät. Eine Anbindung des SumUp 3G-Terminals steht aktuell nicht zur Verfügung.
+    Dieses Plugin unterstützt ausschließlich die oben aufgeführten EC-Kartenlesegeräte SumUp Air und SumUp Solo. Eine Anbindung des SumUp 3G-Terminals steht aktuell nicht zur Verfügung.
 </div>
 
 Weitere Informationen zur Einrichtung und den Hardware-Anforderungen von plentyPOS findest du im [plentymarkets Handbuch](https://knowledge.plentymarkets.com/de-de/manual/main/pos/pos-einrichten.html#10).

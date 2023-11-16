@@ -10,7 +10,7 @@ To use the SumUp Air with plentyPOS, you need the following:
 
 * SumUp Air or SumUp Solo card reading device
 * SumUp login details<br />
-*_Note:_* The SumUp login details are entered when you process the first card payment using the SumUp device. As such, you need to provide POS users with these login details if you do not operate the POS yourself.
+*_Note:_* You enter the SumUp login details in the POS settings in the plentymarkets app. Alternatively, the login details can also be entered during the first card payment with the SumUp device. As such, you need to provide POS users with these login details if you do not operate the POS yourself.
 * plentyPOS
 * Mobile Android device with
     * plentymarkets app installed
@@ -18,7 +18,7 @@ To use the SumUp Air with plentyPOS, you need the following:
     * activated access to location (geolocation positioning)
 
 <div class="alert alert-warning" role="alert">
-    This plugin only supports the SumUp Air card reading device mentioned above. Using the SumpUp 3G card reading device is currently not possible.
+    This plugin only supports the SumUp card reading devices mentioned above (SumUp Air or SumUp Solo). Using the SumpUp 3G card reading device is currently not possible.
 </div>
 
 Check the [plentymarkets manual](https://knowledge.plentymarkets.com/en-gb/manual/main/pos/integrating-plentymarkets-pos.html#10) for further information on hardware requirements and setting up plentyPOS.
