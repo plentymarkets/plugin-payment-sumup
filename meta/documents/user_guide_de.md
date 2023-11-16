@@ -8,7 +8,7 @@ Mit dem Plugin SumUp verbindest du das mobile EC-Kartenlesegerät SumUp Air von 
 
 Um das SumUp Air mit plentyPOS nutzen zu können, benötigst du:
 
-* SumUp Air EC-Kartenlesegerät
+* SumUp Air oder SumUp Solo EC-Kartenlesegerät
 * SumUp-Zugangsdaten <br />
     *_Hinweis:_* Die SumUp-Zugangsdaten gibst du bei der ersten Kartenzahlung mit dem SumUp Air ein. Stelle diese Daten also ggf. Kassenbenutzern zur Verfügung.
 * plentyPOS Kasse
