@@ -2,7 +2,7 @@
   "name": "SumUp",
   "namespace": "SumUp",
   "type": "payment",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "platform": {
     "php": ">=7.3 <8.1"
   },
