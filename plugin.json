@@ -2,17 +2,17 @@
   "name": "SumUp",
   "namespace": "SumUp",
   "type": "payment",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "platform": {
     "php": ">=7.3 <8.1"
   },
   "license": "AGPL-3.0",
   "pluginIcon": "icon_plugin_xs.png",
   "price": 0.00,
-  "description": "SumUp plugin for plentymarkets",
+  "description": "SumUp plugin for the PlentyONE POS",
   "shortDescription": {
-    "de": "Das SumUp Plugin für plentyPOS für integrierte Kartenzahlungen ohne Fixkosten und Vertrag.",
-    "en": "SumUp plugin for plentyPOS to accept card payments without fix costs or contract."
+    "de": "Das SumUp Plugin für POS für integrierte Kartenzahlungen ohne Fixkosten und Vertrag.",
+    "en": "SumUp plugin for POS to accept card payments without fix costs or contract."
   },
   "categories": [
     "3519"
@@ -34,7 +34,8 @@
     "card reading device",
     "Kartenlesegerät",
     "Kartenterminal",
-    "V Pay"
+    "V Pay",
+    "PlentyONE"
   ],
   "author": "plentysystems AG",
   "authorIcon": "icon_author_xs.png",

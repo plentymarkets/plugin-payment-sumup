@@ -1,5 +1,10 @@
 # Release Notes für SumUp
 
+## v.1.0.6 (2025-03-03)
+### Geändert
+- Anpassungen im User Guide
+- Logo aktualisiert
+
 ## v.1.0.5 (2023-11-16)
 ### Geändert
 - Anpassungen im User Guide
