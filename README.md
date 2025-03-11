@@ -2,7 +2,7 @@
 
 # SumUp plugin for PlentyONE POS
 
-This is the official **SumUp** plugin developed by plentysystems AG. It integrates the payment method **SumUp** to use an Ingenico payment terminal.
+This is the official **SumUp** plugin developed by PlentyONE GmbH. It integrates the payment method **SumUp** to use an Ingenico payment terminal.
 
 ## Plugin documentation
 
