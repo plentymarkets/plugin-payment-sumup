@@ -1,16 +1,16 @@
-![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
+![PlentyONE Logo](https://plentyone.com/hubfs/PlentyONE/Logo/202502_PlentyONE_Logo_White_BlueBG_445x105.png)
 
-# SumUp plugin for plentymarkets 7.x
+# SumUp plugin for PlentyONE POS
 
-This is the official **SumUp** plugin developed by plentymarkets. It integrates the payment method **SumUp** to use an Ingenico payment terminal.
+This is the official **SumUp** plugin developed by PlentyONE GmbH. It integrates the payment method **SumUp** to use an Ingenico payment terminal.
 
 ## Plugin documentation
 
 - Learn how to create your [first plentymarkets plugin](https://developers.plentymarkets.com/tutorials/helloworld)
 - Installing a [template](https://developers.plentymarkets.com/tutorials/design)
 - Developing a [payment plugin](https://developers.plentymarkets.com/tutorials/payment)
-- Overview of plentymarkets [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
-- The plentymarkets [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
+- Overview of PlentyONE [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
+- The PlentyONE [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
 
 ## Join our community
 
